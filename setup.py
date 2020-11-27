@@ -8,7 +8,7 @@ setup(
     author="Leer0r",
     author_email="avedd72@gmail.com",
     url="https://github.com/Leer0r/sepyrator",
-    download_url="https://github.com/Leer0r/sepyrator/archive/v_0_1.tar.gz",
+    download_url="https://github.com/Leer0r/sepyrator/archive/v_0_2.tar.gz",
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Development Status :: 3 - Alpha',
