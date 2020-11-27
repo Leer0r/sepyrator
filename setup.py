@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name='sepyrator',
     packages=['sepyrator'],
-    version='0.1',
+    version='0.2',
     licence='MIT',
     description="Simple module for print matrices of values",
     author="Leer0r",
